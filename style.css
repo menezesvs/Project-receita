@@ -1,3 +1,6 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
 *{
     margin: 0px;
     padding: 0px;
@@ -23,7 +26,7 @@ header h1 {
     color: white;
     width: 65vw;
     height: 12vh;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Secular One', sans-serif;
 }
 
 h2 {
@@ -34,7 +37,7 @@ h2 {
     color: black;
     width: 40vw;
     height: 3vh;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Secular One', sans-serif;
 }
 
 section {
@@ -66,7 +69,7 @@ p {
 li {
     width: 38vw;
     height: 2.5vh;
-    font-size: 14px;
+    font-size: 17px;
     display: flex;                                 
     justify-content: flex-start;
     align-items: center;
@@ -74,12 +77,12 @@ li {
 
 .secondFirst {
     padding: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Secular One', sans-serif;
     height: 50vh;
 } 
 
 .secondSec {
     padding: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Secular One', sans-serif;
     height: 50vh;
 }
